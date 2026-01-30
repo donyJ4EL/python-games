@@ -8,3 +8,8 @@ A collection of fun Python games built with various libraries.
 A classic shoot-'em-up arcade game implemented with Pygame.
 
 See the [aircraft-war](./aircraft-war/) directory for details.
+
+### Minesweeper
+A classic Minesweeper puzzle game implemented with Pygame.
+
+See the [minesweeper](./minesweeper/) directory for details.
